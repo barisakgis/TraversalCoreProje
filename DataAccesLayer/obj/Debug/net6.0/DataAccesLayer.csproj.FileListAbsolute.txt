@@ -1,0 +1,17 @@
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.deps.json
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.runtimeconfig.json
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.dll
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.pdb
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.AssemblyInfo.cs
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.csproj.CopyComplete
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.dll
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\refint\DataAccesLayer.dll
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.pdb
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.genruntimeconfig.cache
+C:\Users\baris\source\repos\TraversalCoreProje\DataAccesLayer\obj\Debug\net6.0\ref\DataAccesLayer.dll

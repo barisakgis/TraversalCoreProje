@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+@* // ana index burası çalıştırmak için *@
+ 
+@await Component.InvokeAsync("_SliderPartial")
+
+@await Component.InvokeAsync("_PopularDestinations")
+
+@await Component.InvokeAsync("_Statistics")
+
+@await Component.InvokeAsync("_Feature")
+
+@await Component.InvokeAsync("_SubAbout")
+
+@await Component.InvokeAsync("_Testimonial")
+
+
+
+ 
+
+
