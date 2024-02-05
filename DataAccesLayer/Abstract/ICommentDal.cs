@@ -1,4 +1,5 @@
-﻿using EntityLayer.Concrete;
+﻿
+using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,5 +10,7 @@ namespace DataAccesLayer.Abstract
 {
    public  interface ICommentDal : IGenericDal<Comment>
     {
+        public List<Comment> GetListCommentWithDestination();
+
     }
 }

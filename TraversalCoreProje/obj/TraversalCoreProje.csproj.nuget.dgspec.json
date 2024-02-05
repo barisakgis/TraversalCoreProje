@@ -31,6 +31,9 @@
               "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\DataAccesLayer\\DataAccesLayer.csproj": {
                 "projectPath": "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\DataAccesLayer\\DataAccesLayer.csproj"
               },
+              "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj": {
+                "projectPath": "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj"
+              },
               "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj": {
                 "projectPath": "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj"
               }
@@ -47,6 +50,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"
@@ -173,6 +180,61 @@
               "version": "[6.0.26, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj",
+        "projectName": "DTOLayer",
+        "projectPath": "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj",
+        "packagesPath": "C:\\Users\\baris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baris\\source\\repos\\TraversalCoreProje\\DTOLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -324,6 +386,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.2, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"
@@ -331,6 +405,10 @@
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.3.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
@@ -360,9 +438,21 @@
               "target": "Package",
               "version": "[6.0.26, )"
             },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "iTextSharp.LGPLv2.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
             }
           },
           "imports": [
